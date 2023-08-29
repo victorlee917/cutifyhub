@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/cutifyhub/static/js/main.df394e97.js",
+    "static/media/logo.png": "/cutifyhub/static/media/logo.c1a036879fe40d60bcb6.png",
+    "static/media/sowon.png": "/cutifyhub/static/media/sowon.b1d84fdaadc07066b5f0.png",
+    "static/media/bogus.png": "/cutifyhub/static/media/bogus.191b1d7836f6d066ae22.png",
+    "static/media/chrome.png": "/cutifyhub/static/media/chrome.83c4919f71ce58f53ee6.png",
+    "static/media/whale.png": "/cutifyhub/static/media/whale.f1cb6e0edbdda795758e.png",
+    "index.html": "/cutifyhub/index.html",
+    "main.df394e97.js.map": "/cutifyhub/static/js/main.df394e97.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.df394e97.js"
+  ]
+}
